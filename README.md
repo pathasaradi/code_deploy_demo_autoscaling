@@ -5,4 +5,4 @@
 
 **Note:** Scripts under the scripts folder does not require steps like stop/start of apache server. It's just added to demonstrate the use of `appspec.yaml` file
 
-For the detailed steps involved in the deployment process, please refer the blog post published in [devopsage](https://devopsage.com){:target="_blank" rel="noopener"} website.
+For the detailed steps involved in the deployment process, please refer the blog post published in [devopsage](https://devopsage.com) website.
