@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Script to install aws cli and codedeploy agent
+
 # Install aws cli
 yum install pip -y
 pip install awscli
